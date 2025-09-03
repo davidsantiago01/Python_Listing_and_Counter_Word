@@ -5,3 +5,7 @@ This code helps identify the top 50 most frequently used words in a text with Co
 ### Tools
 - Word, Python, VsCode
 
+
+<img width="1133" height="792" alt="image" src="https://github.com/user-attachments/assets/888192ec-765b-4050-91fc-824ec8dbbd5d" />
+
+
