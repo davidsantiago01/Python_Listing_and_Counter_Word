@@ -1,5 +1,5 @@
 # Python_Listing_and_Counter_Word
-This code helps identify the top 50 most frequently used words in a text with Counter. Since I write poetry I wanted to determine which word I tend to repeate unconsiously, in order to wake up awarness and avoid those words if possible. Code is attached as a file.
+This code helps identify the top 50 most frequently used words in a text with Counter. Since I write poetry, I wanted to determine which words I tend to repeat unconsciously, in order to raise awareness and avoid them if possible. The code is attached as a file
 
 
 ### Tools
